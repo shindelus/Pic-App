@@ -1,3 +1,7 @@
+Travis CI:
+
+[![Build Status](https://travis-ci.org/shindelus/Pic-App.svg?branch=master)](https://travis-ci.org/shindelus/Pic-App)
+
 Pic-App
 
 Pic-App allows a user to upload a photo and have it returned to them and displayed on the page
@@ -15,7 +19,3 @@ To run server: python app.py
 
 To run test: python app_test.py
 
-
-Travis CI:
-
-[![Build Status](https://travis-ci.org/shindelus/Pic-App.svg?branch=master)](https://travis-ci.org/shindelus/Pic-App)
