@@ -3,5 +3,6 @@ python:
   - "2.7"
 install:
   - pip install flask
+  - pip install pil
 script:
   - python app_test.py # or py.test for Python versions 3.5 and below
