@@ -15,4 +15,7 @@ To run server: python app.py
 
 To run test: python app_test.py
 
+
+Travis CI:
+
 [![Build Status](https://travis-ci.org/shindelus/Pic-App.svg?branch=master)](https://travis-ci.org/shindelus/Pic-App)
