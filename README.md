@@ -1,4 +1,5 @@
 Pic-App
+
 Pic-App allows a user to upload a photo and have it returned to them and displayed on the page
 
 Requirements
