@@ -44,6 +44,7 @@ def upload_file():
                 <title>Upload a Photo</title>
             </head>
             <body>
+                <h2> Automatically Deployed! </h2>
                 <form method=post enctype=multipart/form-data>
                     <p><input type=file name=file>
                     <input type=submit value=Submit>
