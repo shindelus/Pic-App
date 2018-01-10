@@ -45,7 +45,7 @@ def upload_file():
             </head>
             <body>
                 <form method=post enctype=multipart/form-data>
-                <p><input type=file name=file>
+                    <p><input type=file name=file>
                     <input type=submit value=Submit>
                 </form>
             </body>
